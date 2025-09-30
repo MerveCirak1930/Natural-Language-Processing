@@ -1,5 +1,5 @@
 # NLP
-Natural Language Processing
+*Natural Language Processing*
 
 Natural Language Processing (NLP) Project
 
@@ -13,9 +13,9 @@ The project includes modules covering the following main topics:
 
 2-Basic Statistics and Bayesian Models: Basic statistical analysis and Bayesian models.
 
-3-Language Models: Language models and their applications.
+3-Language Models: Hidden Markov Models, Maximum Entropy Models, n-gram models.
 
-4-Frequency-Based Methods: Frequency-based methods.
+4-Frequency-Based Methods: BoW, TF-IDF, n-gram models.
 
 5-Word Embeddings: Word embedding techniques.
 
@@ -33,7 +33,9 @@ Requirements
 
 To run the project, you will need the following Python libraries:
 
-pip install numpy pandas matplotlib seaborn scikit-learn nltk spacy gensim tensorflow pytorch
+```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn nltk spacy gensim tensorflow pytorch
+```
 
 Usage
 
