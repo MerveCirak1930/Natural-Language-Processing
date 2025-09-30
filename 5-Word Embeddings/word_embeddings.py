@@ -68,10 +68,10 @@ while True:
 
 # 🔹 FastText (wiki-news-300d-1M-subword.vec.zip)
 # Veri Kümesi:
-    # Wikipedia 2017
-    # UMBC webbase corpus
-    # statmt.org haber veri seti
-    # (toplam: 16 milyar kelime)
+#     Wikipedia 2017
+#     UMBC webbase corpus
+#     statmt.org haber veri seti
+#     (toplam: 16 milyar kelime)
 # Kelime Sayısı: 1 milyon
 # Vektör Boyutu: 300
 # FastText, kelime içi alt-birimleri (subword units) de kullandığı için nadir veya görülmemiş kelimelere bile vektör atayabilir. 

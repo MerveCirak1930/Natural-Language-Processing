@@ -36,6 +36,18 @@ This is a sample Word Cloud generated from our text data:
 ![Word Cloud](11-Word%20Cloud/word_cloud.png)
 
 
+## Datasets
+
+The datasets used in this project are publicly available on Kaggle.  
+You can access them through the following link:
+
+🔗 [Kaggle - NLP Project Datasets](https://www.kaggle.com/datasets/mervecirak1930/natural-language-processing)
+
+> **Note:**  
+> For some scripts, the dataset path is specified directly within the `.py` file.  
+> In cases where dataset access information is not provided inside the `.py` file,  
+> please refer to the above Kaggle link to obtain the required datasets.
+
 
 ## Requirements
 
