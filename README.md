@@ -28,6 +28,8 @@ The project includes modules covering the following main topics:
 
 11-**Word Cloud**: The frequency of words in a text is statistically analyzed and visualized using a Word Cloud.
 
+![Word Cloud](Natural-Language-Processing/11-Word Cloud/word_cloud.png)
+
 ## Requirements
 
 To run the project, you will need the following Python libraries:
