@@ -33,7 +33,7 @@ The project includes modules covering the following main topics:
 
 This is a sample Word Cloud generated from our text data:
 
-![Word Cloud](11-Word Cloud/word_cloud.png)
+![Word Cloud](11-Word%20Cloud/word_cloud.png)
 
 
 
