@@ -1,0 +1,6 @@
+*.csv
+*.conllu
+*.bin
+*.pkl
+*.ipynb_checkpoints
+__pycache__/
